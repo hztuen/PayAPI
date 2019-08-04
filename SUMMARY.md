@@ -4,6 +4,6 @@
 * [签名说](chapter1.md)
 * [1、授权接口](kai-fa-shuo-ming.md)
 * [2、公众号接口](ce-shi.md)
-* 3、小程序接口
-* 4、APP接口
+* [3、小程序接口](33001-xiao-cheng-xu-jie-kou.md)
+* [4、APP接口](4appjie-kou.md)
 
